@@ -1,0 +1,16 @@
+[
+    {
+        "password": "12345678",
+        "role": "manager",
+        "name": "Hanif",
+        "id": "ccd0c6a8-ea63-48aa-8018-37ae5f4b40fb",
+        "username": "hanif12"
+    },
+    {
+        "password": "12345678",
+        "role": "staff",
+        "name": "Hana",
+        "id": "ee69f9b2-6826-4532-9886-8e32c73d2a44",
+        "username": "hana1234"
+    }
+]

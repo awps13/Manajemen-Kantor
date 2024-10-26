@@ -1,0 +1,18 @@
+[
+    {
+        "taskDescription": "Proposal ini digunakan untuk ...",
+        "dueDate": "2024-10-19",
+        "taskName": "Proposal",
+        "id": "123",
+        "employeesId": "12345",
+        "status": "di proses"
+    },
+    {
+        "taskDescription": "Masukkan data sebanyak ....",
+        "dueDate": "2024-10-23",
+        "taskName": "Entry Data",
+        "id": "ca8affc7-f3f7-4b33-adc8-49feba24da42",
+        "employeesId": "ccd0c6a8-ea63-48aa-8018-37ae5f4b40fb",
+        "status": "selesai"
+    }
+]

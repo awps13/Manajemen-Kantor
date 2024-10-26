@@ -1,0 +1,30 @@
+[
+    {
+        "password": "12345678",
+        "role": "manager",
+        "name": "Hanif",
+        "id": "ccd0c6a8-ea63-48aa-8018-37ae5f4b40fb",
+        "username": "hanif12"
+    },
+    {
+        "password": "12345678",
+        "role": "staff",
+        "name": "Hana",
+        "id": "ee69f9b2-6826-4532-9886-8e32c73d2a44",
+        "username": "hana1234"
+    },
+    {
+        "password": "12345678",
+        "role": "staff",
+        "name": "Fathan",
+        "id": "08b9884a-72f8-4b6d-9708-53beec1b034c",
+        "username": "fathan04"
+    },
+    {
+        "password": "12345678",
+        "role": "staff",
+        "name": "Armand",
+        "id": "f392d6be-cba2-4fce-9e77-c5a4534f9d01",
+        "username": "armand12"
+    }
+]
